@@ -1,0 +1,11 @@
+{
+  "name": "GuiaQuito",
+  "app_id": "b7eef22d",
+  "email": "",
+  "proxies": [
+    {
+      "path": "/ApiUrl",
+      "proxyUrl": "https://beguiaq-interesontologia.rhcloud.com/guiaquito/api"
+    }
+  ]
+}
